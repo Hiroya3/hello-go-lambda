@@ -1,3 +1,6 @@
+# 以下のgitリポジトリの練習
+https://github.com/serverless/serverless-golang/
+
 # UPDATE
 
 Starting from [version 1.26](https://github.com/serverless/serverless/releases/tag/v1.26.0) Serverless Framework includes two Golang templates:
